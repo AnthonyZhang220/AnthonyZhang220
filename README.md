@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AnthonyZhang220
 # 👀 I’m interested in programming
-# 🌱 I’m currently learning JavaScript/CSS/HTML/ReactJS/AJAX/NodeJS...
+# 🌱 I’m currently learning JavaScript/CSS/HTML/ReactJS/AJAX/NodeJS/axios/express/SASS/...
 # 💞️ I’m looking to collaborate on projects that are interesting and useful
 # 📫 How to reach me. Email:anthonyzhang1997@gmail.com
 
