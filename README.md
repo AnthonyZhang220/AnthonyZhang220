@@ -1,12 +1,19 @@
-# 👋 Hi, I’m Anthony, a motivated Frontend Enigneer based in New York City.
-# 🌱 I’m currently preparing for code interviews and working on a few projects.
-# 🌱 2022 Goal: Finding 
-# 🌱 Fun fact: I like music a lot and love to compose music and play piano.
-# 📫 How to reach me. Email:anthonyzhang1997@gmail.com
+#  Hi, I’m Anthony, a motivated Frontend Enigneer based in New York City.
+## 🌱 I’m currently preparing for code interviews and working on a few projects.
+## 🌱 2022 Goal: Finding 
+## 🌱 Fun fact: I like music a lot and love to compose music and play piano.
+## 📫 How to reach me. Email:anthonyzhang1997@gmail.com
 
-##Conntect with me: 
+###Featured Projects: 
+1. Portfolio
+2. Gaggle
+3. TripAdvisor
+4. LaoMa Spicy
+5. Explore Amazon API
 
-[<img>]
+###Conntect with me: 
+
+[<img></img>]
 
 
 <!---
