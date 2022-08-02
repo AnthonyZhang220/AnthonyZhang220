@@ -33,10 +33,12 @@
 [<img align="left" alt="github" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/>][github]
 
 [<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50"/>][medium] 
+                                     
 
 
 
 ## Languages, Tech Stacks and Tools:
+
 <p>
 <img align="left" alt="html" src="assets/html.svg" width="50px"/>
 <img align="left" alt="css" src="assets/css.svg" width="50px"/>
@@ -52,6 +54,10 @@
 <img align="left" alt="babel" src="assets/babel.svg" width="50px"/>
 <img align="left" alt="npm" src="assets/npm.svg" width="50px"/>  
 </p>
+
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
