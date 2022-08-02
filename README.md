@@ -15,6 +15,15 @@
 4. [LaoMa Spicy](https://github.com/AnthonyZhang220/qrcode-ordering)
 5. [Explore Amazon API](https://github.com/AnthonyZhang220/Find_GPU_API)
 
+
+### Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Stack Overflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ### Connect with me:
 [<img align="left" alt="linkedin" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"/>][linkedin]
 
