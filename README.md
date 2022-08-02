@@ -1,6 +1,7 @@
 <p align="center">
  <img width="150px" src="assets/az_logo.png" align="center" alt="Anthony Zhang" />
 </p>
+
 # Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer based in New York City.
 
 ### 🌱 I’m currently preparing for code interviews and working on a few projects.
@@ -14,17 +15,11 @@
 ## Featured Projects:
 
 ### 1. [Portfolio](https://github.com/AnthonyZhang220/portfolio-website)
-
 ### 2. [Gaggle](https://github.com/AnthonyZhang220/google-search-clone)
-
 ### 3. [TripAdvisor](https://github.com/AnthonyZhang220/travel-advisor)
-
 ### 4. [LaoMa Spicy](https://github.com/AnthonyZhang220/qrcode-ordering)
-
 ### 5. [Explore Amazon API](https://github.com/AnthonyZhang220/Find_GPU_API)
-
 ## Connect with me:
-
 [<img align="left" alt="linkedin" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"/>][linkedin]
 
 [<img align="left" alt="stackoverflow" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" width="50" height="50"/>][stackoverflow]
@@ -32,12 +27,6 @@
 [<img align="left" alt="github" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/>][github]
 
 [<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50"/>][medium]
-
-
-
-
-
-
 
 ## Languages, Tech Stacks and Tools:
 
