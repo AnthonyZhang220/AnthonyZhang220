@@ -17,8 +17,8 @@
 
 
 ### Medium Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-ARTICLE-LIST:START -->
+<!-- MEDIUM-ARTICLE-LIST:END -->
 
 ### Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
