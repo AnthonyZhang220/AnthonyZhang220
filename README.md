@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="assets/az_logo.png" align="center" alt="Anthony Zhang" />
+ <img width="150px" src="assets/az_logo.png" align="center" alt="Anthony Zhang" />
 </p>
 # Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer based in New York City.
 
@@ -37,6 +37,8 @@
 
 
 
+
+
 ## Languages, Tech Stacks and Tools:
 
 <p>
@@ -54,6 +56,8 @@
 <img align="left" alt="babel" src="assets/babel.svg" width="50px"/>
 <img align="left" alt="npm" src="assets/npm.svg" width="50px"/>
 </p>
+
+
 
 
 
