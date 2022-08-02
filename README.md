@@ -32,10 +32,10 @@
 
 [<img align="left" alt="github" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/>][github]
 
-[<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50"/>][medium] 
-                                     
+[<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50"/>][medium]
 
-
+<br />
+<br />
 
 ## Languages, Tech Stacks and Tools:
 
@@ -55,17 +55,18 @@
 <img align="left" alt="npm" src="assets/npm.svg" width="50px"/>  
 </p>
 
-
-
-
-
+<br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+<br />
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyZhang220&show_icons=true&hide_border=true&count_private=true" />
+
+<br />
+<br />
 
 [linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
 [stackoverflow]: https://stackoverflow.com/users/6162027/anthonydev220
