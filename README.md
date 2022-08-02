@@ -15,21 +15,28 @@
 ## Featured Projects:
 
 ### 1. [Portfolio](https://github.com/AnthonyZhang220/portfolio-website)
+
 ### 2. [Gaggle](https://github.com/AnthonyZhang220/google-search-clone)
+
 ### 3. [TripAdvisor](https://github.com/AnthonyZhang220/travel-advisor)
+
 ### 4. [LaoMa Spicy](https://github.com/AnthonyZhang220/qrcode-ordering)
+
 ### 5. [Explore Amazon API](https://github.com/AnthonyZhang220/Find_GPU_API)
+
 ## Connect with me:
+
 [<img align="left" alt="linkedin" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"/>][linkedin]
 
 [<img align="left" alt="stackoverflow" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" width="50" height="50"/>][stackoverflow]
 
 [<img align="left" alt="github" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/>][github]
 
-[<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50"/>][medium]
+[<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50"/>][medium] 
+
+
 
 ## Languages, Tech Stacks and Tools:
-
 <p>
 <img align="left" alt="html" src="assets/html.svg" width="50px"/>
 <img align="left" alt="css" src="assets/css.svg" width="50px"/>
@@ -43,14 +50,9 @@
 <img align="left" alt="expressjs" src="assets/expressjs.svg" width="50px"/>
 <img align="left" alt="webpack" src="assets/webpack.svg" width="50px"/>
 <img align="left" alt="babel" src="assets/babel.svg" width="50px"/>
-<img align="left" alt="npm" src="assets/npm.svg" width="50px"/>
+<img align="left" alt="npm" src="assets/npm.svg" width="50px"/>  
 </p>
 
-
-
-
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
