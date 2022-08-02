@@ -39,34 +39,21 @@
 
 ## Languages, Tech Stacks and Tools:
 
-
-[<img align="left" alt="html" src="assets/html.svg" width="50px"/>][]
-
-[<img align="left" alt="css" src="assets/css.svg" width="50px"/>][]
-
-[<img align="left" alt="js_official" src="assets/js_official.svg" width="50px"/>][]
-
-[<img align="left" alt="reactjs" src="assets/reactjs.svg" width="50px"/>][]
-
-[<img align="left" alt="mui" src="assets/mui.svg" width="50px"/>][]
-
-[<img align="left" alt="node" src="assets/node.svg" width="50px"/>][]
-
-[<img align="left" alt="vscode" src="assets/vscode.svg" width="50px"/>][]
-
-[<img align="left" alt="scss" src="assets/scss.svg" width="50px"/>][]
-
-[<img align="left" alt="git" src="assets/git.svg" width="50px"/>][]
-
-[<img align="left" alt="expressjs" src="assets/expressjs.svg" width="50px"/>][]
-
-[<img align="left" alt="webpack" src="assets/webpack.svg" width="50px"/>][]
-
-[<img align="left" alt="babel" src="assets/babel.svg" width="50px"/>][]
-
-[<img align="left" alt="npm" src="assets/npm.svg" width="50px"/>][]
-
-
+<p>
+<img align="left" alt="html" src="assets/html.svg" width="50px"/>
+<img align="left" alt="css" src="assets/css.svg" width="50px"/>
+<img align="left" alt="js_official" src="assets/js_official.svg" width="50px"/>
+<img align="left" alt="reactjs" src="assets/reactjs.svg" width="50px"/>
+<img align="left" alt="mui" src="assets/mui.svg" width="50px"/>
+<img align="left" alt="node" src="assets/node.svg" width="50px"/>
+<img align="left" alt="vscode" src="assets/vscode.svg" width="50px"/>
+<img align="left" alt="scss" src="assets/scss.svg" width="50px"/>
+<img align="left" alt="git" src="assets/git.svg" width="50px"/>
+<img align="left" alt="expressjs" src="assets/expressjs.svg" width="50px"/>
+<img align="left" alt="webpack" src="assets/webpack.svg" width="50px"/>
+<img align="left" alt="babel" src="assets/babel.svg" width="50px"/>
+<img align="left" alt="npm" src="assets/npm.svg" width="50px"/>
+</p>
 
 
 
@@ -74,9 +61,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyZhang220&show_icons=true&hide_border=true&count_private=true" />
-
 
 [linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
 [stackoverflow]: https://stackoverflow.com/users/6162027/anthonydev220
