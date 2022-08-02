@@ -22,6 +22,11 @@
 
 ### Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by AnthonyDev220 for React useRef hook - How to programmatically trigger a click event for multiple &lt;td&gt;&#39;s?](https://stackoverflow.com/questions/73160008/react-useref-hook-how-to-programmatically-trigger-a-click-event-for-multiple/73161370#73161370)
+- [Answer by AnthonyDev220 for Why style attr change can not trigger rerender in React?](https://stackoverflow.com/questions/73161143/why-style-attr-change-can-not-trigger-rerender-in-react/73161217#73161217)
+- [sending token to backend server but couldn&#39;t connect to it with react-google-recaptcha](https://stackoverflow.com/questions/73146795/sending-token-to-backend-server-but-couldnt-connect-to-it-with-react-google-rec)
+- [Answer by AnthonyDev220 for MUI Radio button will not show checked? React](https://stackoverflow.com/questions/72993661/mui-radio-button-will-not-show-checked-react/73007364#73007364)
+- [Answer by AnthonyDev220 for Dependencies issues when installing MUI](https://stackoverflow.com/questions/72997934/dependencies-issues-when-installing-mui/72998258#72998258)
 <!-- STACKOVERFLOW:END -->
 
 ### Connect with me:
