@@ -1,39 +1,64 @@
-#  Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer based in New York City.
+<p align="center">
+ <img width="100px" src="assets/az_logo.png" align="center" alt="Anthony Zhang" />
+</p>
+
+# Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer based in New York City.
+
 ### 🌱 I’m currently preparing for code interviews and working on a few projects.
+
 ### 🌱 2022 Goal: Find a full time job in Frontend Engineer and contribute more to Open Source projects
+
 ### 🌱 Fun fact: I like music a lot and love to compose music and play piano.
-### 📫 How to reach me. Email:anthonyzhang1997@gmail.com
 
-### Featured Projects: 
-1. [Portfolio](https://github.com/AnthonyZhang220/portfolio-website)
-2. [Gaggle](https://github.com/AnthonyZhang220/google-search-clone)
-3. [TripAdvisor](https://github.com/AnthonyZhang220/travel-advisor)
-4. [LaoMa Spicy](https://github.com/AnthonyZhang220/qrcode-ordering)
-5. [Explore Amazon API](https://github.com/AnthonyZhang220/Find_GPU_API)
+### 📫 How to reach me. Email: anthonyzhang1997@gmail.com
 
-### Connect with me: 
+## Featured Projects:
 
-[<i class="fa-brands fa-linkedin"></i>][Linkedin]
+### 1. [Portfolio](https://github.com/AnthonyZhang220/portfolio-website)
+### 2. [Gaggle](https://github.com/AnthonyZhang220/google-search-clone)
+### 3. [TripAdvisor](https://github.com/AnthonyZhang220/travel-advisor)
+### 4. [LaoMa Spicy](https://github.com/AnthonyZhang220/qrcode-ordering)
+### 5. [Explore Amazon API](https://github.com/AnthonyZhang220/Find_GPU_API)
 
-[<i class="fa-brands fa-medium"></i>][Medium]
+## Connect with me:
 
-[<i class="fa-brands fa-github"></i>][Github]
+<p>
+<img align="left" alt="linkedin" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">
+<img align="left" alt="stackoverflow" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" width="50" height="50">
+<img align="left" alt="github" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
+<img align="left" alt="medium" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="50" height="50">
+</p>
 
-[<i class="fa-brands fa-stack-overflow"></i>][Stackoverflow]
+
+
+## Languages, Tech Stacks and Tools:
+
+<p>
+<img align="left" alt="html" src="assets/html.svg" width="50px">
+<img align="left" alt="css" src="assets/css.svg" width="50px">
+<img align="left" alt="js_official" src="assets/js_official.svg" width="50px">
+<img align="left" alt="reactjs" src="assets/reactjs.svg" width="50px">
+<img align="left" alt="mui" src="assets/mui.svg" width="50px">
+<img align="left" alt="node" src="assets/node.svg" width="50px">
+<img align="left" alt="vscode" src="assets/vscode.svg" width="50px">
+<img align="left" alt="scss" src="assets/scss.svg" width="50px">
+<img align="left" alt="git" src="assets/git.svg" width="50px">
+<img align="left" alt="expressjs" src="assets/expressjs.svg" width="50px">
+<img align="left" alt="webpack" src="assets/webpack.svg" width="50px">
+<img align="left" alt="babel" src="assets/babel.svg" width="50px">
+<img align="left" alt="npm" src="assets/npm.svg" width="50px">
+</p>
+
+##
 
 <br/>
 <br/>
-<br/>
 
-[Linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
-[Stackoverflow]: https://stackoverflow.com/users/6162027/anthonydev220
-[Portfolio]: https://anthonyzhang.netlify.app/
-[Medium]: https://medium.com/@anthonyzhang220
-[Github]: https://github.com/AnthonyZhang220
-
-
-
-
+[linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
+[stackoverflow]: https://stackoverflow.com/users/6162027/anthonydev220
+[portfolio]: https://anthonyzhang.netlify.app/
+[medium]: https://medium.com/@anthonyzhang220
+[github]: https://github.com/AnthonyZhang220
 
 <!---
 AnthonyZhang220/AnthonyZhang220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
