@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-ARTICLE-LIST"
-          feed_list: "https://medium.com/feed/@anthonyzhang220
-"
+          feed_list: "https://medium.com/feed/@anthonyzhang220"
+          template : "<table><tr><td><a href="$url"></a></td>$newline<td><a href="$url">$title</a><br/>$description<br/>$date<br/>$couter<br/>$categories</td></tr></table>$newline"
