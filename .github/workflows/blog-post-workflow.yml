@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "MEDIUM-ARTICLE-LIST"
           feed_list: "https://medium.com/feed/@anthonyzhang220"
-          custom_tags: "image/image/"
-          template : '<table><tr><a href="$url">$title</a><br/>$description<br/>$date<br/>$categories<br/>$counter</td></tr></table>$newline'
+          categories_template: '<code>$category</code>'
+          template : '<table><tr><a href="$url">$title</a><br/>$date<br/>$categories</td></tr></table>$newline'
