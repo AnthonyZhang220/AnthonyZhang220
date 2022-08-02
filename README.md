@@ -18,6 +18,9 @@
 
 ### Medium Posts
 <!-- MEDIUM-ARTICLE-LIST:START -->
+- [My take on how to improve the performance and accessibility of our website with React?](https://medium.com/@anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-5f3472580aec?source=rss-f49b45dcf7c7------2)
+- [Building a Music Player using React hook useState&lpar;&rpar; with my own implementation](https://medium.com/@anthonyzhang220/building-a-music-player-with-react-hook-usestate-with-my-own-implementation-bbedc8d73d12?source=rss-f49b45dcf7c7------2)
+- [Form Validation with Material UI TextField component and React](https://medium.com/@anthonyzhang220/form-validation-with-material-ui-textfield-component-and-react-29f0f0b26849?source=rss-f49b45dcf7c7------2)
 <!-- MEDIUM-ARTICLE-LIST:END -->
 
 ### Stack Overflow Activity
