@@ -24,11 +24,11 @@
 
 ### Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
-- [How to access a deeply nested object and map it to render a list of images? [duplicate]](https://stackoverflow.com/questions/73589311/how-to-access-a-deeply-nested-object-and-map-it-to-render-a-list-of-images)
 - [Answer by AnthonyDev220 for Material-UI Card Border Color](https://stackoverflow.com/questions/73272945/material-ui-card-border-color/73273011#73273011)
 - [Answer by AnthonyDev220 for push form data into an array while clicking the submit in react.js functional component](https://stackoverflow.com/questions/73213140/push-form-data-into-an-array-while-clicking-the-submit-in-react-js-functional-co/73213688#73213688)
 - [Answer by AnthonyDev220 for React useRef hook - How to programmatically trigger a click event for multiple &lt;td&gt;&#39;s?](https://stackoverflow.com/questions/73160008/react-useref-hook-how-to-programmatically-trigger-a-click-event-for-multiple/73161370#73161370)
 - [Answer by AnthonyDev220 for Why style attr change can not trigger rerender in React?](https://stackoverflow.com/questions/73161143/why-style-attr-change-can-not-trigger-rerender-in-react/73161217#73161217)
+- [sending token to backend server but couldn&#39;t connect to it with react-google-recaptcha](https://stackoverflow.com/questions/73146795/sending-token-to-backend-server-but-couldnt-connect-to-it-with-react-google-rec)
 <!-- STACKOVERFLOW:END -->
 
 ### Connect with me:
