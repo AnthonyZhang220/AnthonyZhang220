@@ -1,7 +1,7 @@
 name: Latest Medium post
 on:
   schedule:
-    # Runs every hour
+    # Runs every day
     - cron: '0 0 * * *'
   workflow_dispatch:
 
