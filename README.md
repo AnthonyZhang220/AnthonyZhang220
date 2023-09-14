@@ -1,7 +1,3 @@
-<p align="center">
- <img width="100px" src="assets/az_logo.png" align="center" alt="Anthony Zhang" />
-</p>
-
 ## Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer based in New York City.
 - 🌱 I’m currently preparing for code interviews and working on a few projects.
 - 🌱 2022 Goal: Find a full time job in Frontend Engineer and contribute more to Open Source projects
