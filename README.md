@@ -1,9 +1,9 @@
-## Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer.
+### Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer, familiar with "nextjs", "react", "typescript", "node" and more.
 - 🌱 I’m currently preparing for code interviews and working on a few projects.
 - 🌱 2022 Goal: Find a full time job in Frontend Engineer and contribute more to Open Source projects
 - 🌱 Fun fact: I like music a lot and love to compose music and play piano.
 - 📫 How to reach me. Email: anthonyzhang1997@gmail.com
-
+- 
 ### Featured Projects:
 1. [Portfolio](https://github.com/AnthonyZhang220/portfolio-website)
 2. [Gaggle](https://github.com/AnthonyZhang220/google-search-clone)
