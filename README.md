@@ -1,4 +1,4 @@
-## Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer based in New York City.
+## Hi, I’m [Anthony](https://anthonyzhang.netlify.app/), a motivated Frontend Engineer.
 - 🌱 I’m currently preparing for code interviews and working on a few projects.
 - 🌱 2022 Goal: Find a full time job in Frontend Engineer and contribute more to Open Source projects
 - 🌱 Fun fact: I like music a lot and love to compose music and play piano.
@@ -12,7 +12,7 @@
 5. [Explore Amazon API](https://github.com/AnthonyZhang220/Find_GPU_API)
 
 
-### Medium Posts
+### Blogs and Posts
 <!-- MEDIUM-ARTICLE-LIST:START --><ul><li><tr><a href="https://medium.com/@anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-eee6bc3dff42?source=rss-f49b45dcf7c7------2">My take on how to improve the performance and accessibility of our website with React?</a><br/>Fri Dec 16 2022 6:31 PM<br/><code>google-lighthouse</code><code>react</code><code>web-development</code><code>accessibility</code></td></tr></table>
 </li></ul><ul><li><tr><a href="https://medium.com/@anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-5f3472580aec?source=rss-f49b45dcf7c7------2">My take on how to improve the performance and accessibility of our website with React?</a><br/>Sat Jul 30 2022 2:39 AM<br/><code>seo</code><code>accessibility</code><code>javascript</code><code>react</code><code>performance</code></td></tr></table>
 </li></ul><ul><li><tr><a href="https://medium.com/@anthonyzhang220/building-a-music-player-with-react-hook-usestate-with-my-own-implementation-bbedc8d73d12?source=rss-f49b45dcf7c7------2">Building a Music Player using React hook useState&lpar;&rpar; with my own implementation</a><br/>Mon Jul 04 2022 7:36 PM<br/><code>react-hook</code><code>react</code><code>front-end-development</code><code>music</code></td></tr></table>
