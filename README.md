@@ -4,7 +4,7 @@
 [![DevTo](https://img.shields.io/badge/dev.to-020202?style=for-the-badge&logo=devdotto)](https://dev.to/anthonyzhang220)
 <table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 ### [Overview](https://anthonyzhang.netlify.app/about)
 - Actively looking for full time job for a frontend or fullstack developer position.
@@ -18,7 +18,7 @@
   
 ### Find me on: [LinkedIn][linkedin] | [Github][github] | [Dev.To][devto]
 </td>
-<td>
+<td valign="top" width="50%">
 
 ### Featured Projects:
 1. [Messaging and Voice Chat App](https://github.com/AnthonyZhang220/discord_clone): A discord clone with chat and voice chat.
