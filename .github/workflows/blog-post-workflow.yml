@@ -17,4 +17,4 @@ jobs:
         with:
           comment_tag_name: "DEVTO-ARTICLE"
           feed_list: "https://dev.to/feed/anthonyzhang220"
-          template : '<tr><td><a href="$url">$title</a></td></tr>'
+          template : '<a href="$url">$title</a>'
