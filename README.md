@@ -34,8 +34,7 @@
 
 ### [Recent articles](https://dev.to/anthonyzhang220)
 <table>
-<!-- DEVTO-ARTICLE:START -->
-<!-- DEVTO-ARTICLE:END -->
+<!-- DEVTO-ARTICLE:START --><tr><td><a href="https://dev.to/anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-2-accessibility-1p71">My take on how to improve the performance and accessibility of our website with React? &lpar;2&rpar; Accessibility</a></td></tr><tr><td><a href="https://dev.to/anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-1-performance-3l2c">My take on how to improve the performance and accessibility of our website with React? &lpar;1&rpar; Performance</a></td></tr><tr><td><a href="https://dev.to/anthonyzhang220/building-a-music-player-using-react-hook-usestate-with-my-own-implementation-2ba5">Building a Music Player using React hook useState&lpar;&rpar; with my own implementation</a></td></tr><tr><td><a href="https://dev.to/anthonyzhang220/form-validation-with-material-ui-text-field-component-and-react-23dl">Form Validation with Material UI Text Field component and React</a></td></tr><!-- DEVTO-ARTICLE:END -->
 </table>
 </table>
 
