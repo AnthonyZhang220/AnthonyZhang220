@@ -2,29 +2,26 @@
 [![Github](https://img.shields.io/github/followers/AnthonyZhang220?label=Follow&style=for-the-badge&logo=github)](https://github.com/AnthonyZhang220)
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/6162027?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/6162027)
 [![DevTo](https://img.shields.io/badge/dev.to-020202?style=for-the-badge&logo=devdotto)](https://dev.to/anthonyzhang220)
-<table>
-<tr>
-<td valign="top", width="40%">
+<div style="display: flex">
+<div style="flex: 1 1 50%">
 
 ### [Overview](https://anthonyzhang.netlify.app/about)
 - Actively looking for full time job for a frontend or fullstack developer position.
 - Love to contribute to open source.
-
+  
 ### Tech stacks, languages and tools:
 
 #### Actively using or used: 
-    Languages: HTML5/CSS3/JS, Typescript, C#
-    Tech: ReactJS, NextJS, GraphQL(Apollo, Pothos), 
-    Express, PostgreSQL, Prisma, SASS/SCSS
-    Tools: Docker, Git, Vim, Vscode, Linux
+- Languages: HTML5/CSS3/JS, Typescript, C#
+- Tech: ReactJS, NextJS, GraphQL(Apollo, Pothos), Express, PostgreSQL, Prisma, SASS/SCSS
+- Tools: Docker, Git, Vim, Vscode, Linux
 
 #### Currently learning: 
-    C#, ASP.NET, Angular
+- C#, ASP.NET, Angular
 
 ### Find me on: [LinkedIn][linkedin] | [Github][github] | [Dev.To][devto]
 </div>
-</td>
-<td valign="top" width="60%">
+<div style="flex: 1 1 50%">
 
 ### Featured Projects:
 1. [Messaging and Voice Chat App](https://github.com/AnthonyZhang220/discord_clone): A discord clone with chat and voice chat.
@@ -33,17 +30,15 @@
 4. [LaoMa Spicy Official App](https://github.com/AnthonyZhang220/qrcode-ordering): An official website for a local restaruant with visual menu, shopping card and more.
 
 ### [Recent articles](https://dev.to/anthonyzhang220)
-<table>
 <!-- DEVTO-ARTICLE:START -->
 <!-- DEVTO-ARTICLE:END -->
-</table>
-</table>
-
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyZhang220&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_latte&hide_rank=true&include_all_commits=true)
+</div>
+</div>
 <div style="display: flex">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true)
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyZhang220&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_latte&hide_rank=true&include_all_commits=true)
 </div>
 
 [linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
