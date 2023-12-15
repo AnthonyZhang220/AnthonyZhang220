@@ -1,4 +1,4 @@
-name: Latest Medium post
+name: Latest Dev.To post
 on:
   schedule:
     # Runs every day
@@ -7,13 +7,14 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Medium post
+    name: Update this repo's README with latest Dev.To post
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in Dev.To posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "MEDIUM-ARTICLE-LIST"
-          feed_list: "https://medium.com/feed/@anthonyzhang220"
-          categories_template: '<code>$category</code>'
-          template : '<ul><li><tr><a href="$url">$title</a><br/>$date<br/>$categories</td></tr></table>$newline</li></ul>'
+          comment_tag_name: "DEVTO-ARTICLE"
+          feed_list: "https://dev.to/feed/anthonyzhang220"
+          template : '<tr><td><a href="$url">$title</a></td></tr>'

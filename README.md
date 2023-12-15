@@ -1,51 +1,50 @@
-## Hi, I’m Anthony, a motivated Frontend Engineer, .
+## Hi, I’m Anthony, a Frontend Engineer.
+[![Github](https://img.shields.io/github/followers/AnthonyZhang220?label=Follow&style=for-the-badge&logo=github)](https://github.com/AnthonyZhang220)
+[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/6162027?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/6162027)
+[![DevTo](https://img.shields.io/badge/dev.to-020202?style=for-the-badge&logo=devdotto)](https://dev.to/anthonyzhang220)
 <table>
 <tr>
 <td valign="top", width="40%">
 
 ### [Overview](https://anthonyzhang.netlify.app/about)
-- Actively looking for full time job for frontend or fullstack developer position.
-- W
-- 🌱 Fun fact: I like music a lot and love to compose music and play piano.
-- 📫 How to reach me. Email: anthonyzhang1997@gmail.com
+- Actively looking for full time job for a frontend or fullstack developer position.
+- Love to contribute to open source.
 
 ### Tech stacks, languages and tools:
+
 #### Actively using or used: 
     Languages: HTML5/CSS3/JS, Typescript, C#
     Tech: ReactJS, NextJS, GraphQL(Apollo, Pothos), 
-    Express, PostgreSQL(Prisma), SASS/SCSS
-    Tools: Docker, Git, Vim, Vscode
+    Express, PostgreSQL, Prisma, SASS/SCSS
+    Tools: Docker, Git, Vim, Vscode, Linux
 
 #### Currently learning: 
     C#, ASP.NET, Angular
 
+### Find me on: [LinkedIn][linkedin] | [Github][github] | [Dev.To][devto]
+</div>
 </td>
 <td valign="top" width="60%">
 
 ### Featured Projects:
-1. [Messaging and Voice Chat App](https://github.com/AnthonyZhang220/portfolio-website): A discord clone with chat and voice chat. 
+1. [Messaging and Voice Chat App](https://github.com/AnthonyZhang220/discord_clone): A discord clone with chat and voice chat.
 2. [Search App](https://github.com/AnthonyZhang220/google-search-clone): A google search clone.
 3. [Map App](https://github.com/AnthonyZhang220/travel-advisor): A restaurants, hotels and attractions searching tools integrated with Google Map API
 4. [LaoMa Spicy Official App](https://github.com/AnthonyZhang220/qrcode-ordering): An official website for a local restaruant with visual menu, shopping card and more.
 
-### [Recent articles I wrote](https://dev.to/anthonyzhang220)
-<!-- MEDIUM-ARTICLE-LIST:START --><table><tr><a href="https://medium.com/@anthonyzhang220/my-take-on-how-to-improve-the-performance-and-accessibility-of-our-website-with-react-5f3472580aec?source=rss-f49b45dcf7c7------2">My take on how to improve the performance and accessibility of our website with React?</a><br/>Sat Jul 30 2022 2:39 AM<br/><code>seo</code><code>accessibility</code><code>javascript</code><code>react</code><code>performance</code></td></tr></table>
-<table><tr><a href="https://medium.com/@anthonyzhang220/building-a-music-player-with-react-hook-usestate-with-my-own-implementation-bbedc8d73d12?source=rss-f49b45dcf7c7------2">Building a Music Player using React hook useState&lpar;&rpar; with my own implementation</a><br/>Mon Jul 04 2022 7:36 PM<br/><code>react-hook</code><code>react</code><code>front-end-development</code><code>music</code></td></tr></table>
-<table><tr><a href="https://medium.com/@anthonyzhang220/form-validation-with-material-ui-textfield-component-and-react-29f0f0b26849?source=rss-f49b45dcf7c7------2">Form Validation with Material UI TextField component and React</a><br/>Sun Apr 17 2022 7:52 AM<br/><code>html</code><code>material-ui</code><code>react</code></td></tr></table>
-<!-- MEDIUM-ARTICLE-LIST:END -->
+### [Recent articles](https://dev.to/anthonyzhang220)
+<table>
+<!-- DEVTO-ARTICLE:START -->
+<!-- DEVTO-ARTICLE:END -->
+</table>
 </table>
 
-### Find me on: [LinkedIn][linkedin] | [Github][github] | [Dev.To][devto]
-<br />
+<div style="display: flex">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true)
 
-<br />
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnthonyZhang220&show_icons=true&hide_border=true&count_private=true" />
-
-<br />
-<br />
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyZhang220&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_latte&hide_rank=true&include_all_commits=true)
+</div>
 
 [linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
 [stackoverflow]: https://stackoverflow.com/users/6162027/anthonydev220
