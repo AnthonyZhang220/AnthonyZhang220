@@ -36,8 +36,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true)
 
-</div>
-
 [linkedin]: https://www.linkedin.com/in/anthony-xiangyu-zhang/
 [stackoverflow]: https://stackoverflow.com/users/6162027/anthonydev220
 [portfolio]: https://anthonyzhang.netlify.app/
