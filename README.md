@@ -2,8 +2,8 @@
 [![Github](https://img.shields.io/github/followers/AnthonyZhang220?label=Follow&style=for-the-badge&logo=github)](https://github.com/AnthonyZhang220)
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/6162027?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/6162027)
 [![DevTo](https://img.shields.io/badge/dev.to-020202?style=for-the-badge&logo=devdotto)](https://dev.to/anthonyzhang220)
-<div style="display: flex">
-<div style="flex: 1 1 50%">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr)">
+<div>
 
 ### [Overview](https://anthonyzhang.netlify.app/about)
 - Actively looking for full time job for a frontend or fullstack developer position.
@@ -21,7 +21,7 @@
 
 ### Find me on: [LinkedIn][linkedin] | [Github][github] | [Dev.To][devto]
 </div>
-<div style="flex: 1 1 50%">
+<div>
 
 ### Featured Projects:
 1. [Messaging and Voice Chat App](https://github.com/AnthonyZhang220/discord_clone): A discord clone with chat and voice chat.
