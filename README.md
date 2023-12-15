@@ -9,17 +9,13 @@
 ### [Overview](https://anthonyzhang.netlify.app/about)
 - Actively looking for full time job for a frontend or fullstack developer position.
 - Love to contribute to open source.
-  
 ### Tech stacks, languages and tools:
-
-#### Actively using or used: 
-- Languages: HTML5/CSS3/JS, Typescript, C#
-- Tech: ReactJS, NextJS, GraphQL(Apollo, Pothos), Express, PostgreSQL, Prisma, SASS/SCSS
-- Tools: Docker, Git, Vim, Vscode, Linux
-
+- Languages: <b>HTML5/CSS3/JS, Typescript, C#</b>
+- Tech: <b>ReactJS, NextJS, GraphQL(Apollo, Pothos), Express, PostgreSQL, Prisma, SASS/SCSS</b>
+- Tools: <b>Docker, Git, Vim, Vscode, Linux</b>
 #### Currently learning: 
-- C#, ASP.NET, Angular
-
+- <b>C#, ASP.NET, Angular</b>
+  
 ### Find me on: [LinkedIn][linkedin] | [Github][github] | [Dev.To][devto]
 </td>
 <td>
@@ -37,7 +33,6 @@
 </td>
 </tr>
 </table>
-<div style="display: flex; justify-content: center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyZhang220&layout=pie&langs_count=10&size_weight=0.5&count_weight=0.5&hide_title=true)
 
